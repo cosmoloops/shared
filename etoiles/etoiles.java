@@ -8,7 +8,7 @@ public class etoiles {
 
 	
 	public static void main(String[] arg) {
-		
+		//initialisation saisie
 		Scanner phrase2= new Scanner(System.in);
 		
 		String Phrase="";
